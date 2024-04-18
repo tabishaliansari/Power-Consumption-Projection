@@ -21,7 +21,7 @@ This project is being developed to learn and enchance skillsets in the scope of 
 ## Project Description : 
 This project aims at predicting the energy consumption of residential households and as well as commercial industries. As of now, the project is in its very initial stages.\
     The Power Quality Cell (PQ Cell) at AISSMS Institute of Information Technology is fitted with a data logger which provides the readings for each specified time interval. The data logger is the sole source of the dataset.\
-We will be using Python3 and Jupyrt Notebook for most of the project. Following are the modules and libraries used throughout the project :
+We will be using Python3 and Jupyter Notebook for most of the project. Following are the modules and libraries used throughout the project :
 * NumPy, Pandas, Matplotlib
 * SciPy, Seaborn
 * Statistics, Scikit Learn.
