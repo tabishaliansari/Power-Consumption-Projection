@@ -16,7 +16,9 @@ Predicting the energy consumption for a month using previous months data by util
 This project is being developed to learn and enchance skillsets in the scope of Data Science and Machine Learing.
 ***
 ## Project Scope :
-The Energy Consumption Prediction Model is specifically designed for aiding in the industries in planning the annual budget. Having a numerical predicted value in hand while planning the annual budget will obviously benefit resource allocation process, revenue distribution and various other fields. The project also aims at bringing smart meters into each and every household, thereby informing the energy usage patterns to the citizens and helping save the environment and the masses' money.
+The Energy Consumption Prediction Model is specifically designed for aiding the industries in planning their annual budget. Having a numerical predicted value in hand while planning the annual budget will obviously benefit resource allocation process, revenue distribution and various other fields. The project also aims at bringing smart meters into each and every household, thereby informing the energy usage patterns to the citizens and helping save the environment and the masses' money.\
+Moreover, this project is not only limited to energy consumption prediction, but can also address various other existing problems through Machine Learning models based on Solar Energy Generation Prediction,  Harmonics Prediction, Fault Detection, Energy Bill Prediction (Commercial and Residential) and much more.\
+But as of now,we are dedicatedly building the Energy Consumption Prediction Model for our college and simultaneously predicting the MSEDCL Bill.
 
 ## Project Description : 
 This project aims at predicting the energy consumption of residential households and as well as commercial industries. As of now, the project is in its very initial stages.\
