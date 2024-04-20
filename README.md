@@ -1,15 +1,21 @@
 # Energy Consumption Prediction Model
 
- `Project Lead : Tabish Ali Ansari`
+`Project Lead : Tabish Ali Ansari`
 >Enthusiastic Artificial Intelligence and Data Science protege.
 
- `Project Manager : Parth Yangandul`
+`Project Manager : Parth Yangandul`
 >Proactive learner with a strong grasp of ML fundamentals, and Data Analytics.
 
-#### `Mentor : Dr. Sachin Shelar`
+`Mentor : Dr. Sachin Shelar`
 >Head of Power Quality Cell, AISSMS Institute of Information Technology, Pune.
 ***
 
+### Contact the team
+[Tabish Ali Ansari](mailto:tabish.ansari004@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans)\
+[Parth Yangandul](mailto:parthyangandul@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)\
+[Dr. Sachin Shelar](mailto:sachin.shelar@aissmsioit.org?subject=[GitHub]%20Source%20Han%20Sans)
+
+***
 ## **Problem Statement** :
 Predicting the energy consumption for a month using previous months data by utilising
 <u> Machine Learning <u> techniques such as Linear Regression.\
