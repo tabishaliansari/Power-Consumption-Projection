@@ -35,5 +35,4 @@ We will be using Python3 and Jupyter Notebook for most of the project. Following
 * Data Visualization: Matplotlib, Seaborn.
 * Machine Learning: Scikit Learn.
 ***
-
 The detailed analysis reports will be updated soon!!!
