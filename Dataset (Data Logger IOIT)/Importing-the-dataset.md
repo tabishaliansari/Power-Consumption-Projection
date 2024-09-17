@@ -11,7 +11,7 @@ Hence, with the following code, you can import the dataset and rename the column
 
 import pandas as pd  
 dataset = pd.read_csv(r"file_path.csv", sep = ";", na_values=["NA", "NaN", "Missing", "Null", "NULL"])  
-new_column_names = [col.split(">", 1)[-1].strip() for col in data.columns]  
+new_column_names = [col.split(">", 1)[-1].strip() for col in dataset.columns]  
 data.columns = new_column_names  
 data.head()  
 
